@@ -1,0 +1,40 @@
+E:\courses\c#\m7mod salem\New folder\TWQ_MangementSystem\bin\Debug\TWQ_MangementSystem.exe.config
+E:\courses\c#\m7mod salem\New folder\TWQ_MangementSystem\obj\Debug\TWQ_MangementSystem.csprojResolveAssemblyReference.cache
+E:\courses\c#\m7mod salem\New folder\TWQ_MangementSystem\obj\Debug\TWQ_MangementSystem.Properties.Resources.resources
+E:\courses\c#\m7mod salem\New folder\TWQ_MangementSystem\obj\Debug\TWQ_MangementSystem.csproj.GenerateResource.Cache
+E:\courses\c#\m7mod salem\New folder\TWQ_MangementSystem\bin\Debug\TWQ_MangementSystem.exe
+E:\courses\c#\m7mod salem\New folder\TWQ_MangementSystem\bin\Debug\TWQ_MangementSystem.pdb
+E:\courses\c#\m7mod salem\New folder\TWQ_MangementSystem\obj\Debug\TWQ_MangementSystem.exe
+E:\courses\c#\m7mod salem\New folder\TWQ_MangementSystem\obj\Debug\TWQ_MangementSystem.pdb
+E:\courses\c#\m7mod salem\New folder\TWQ_MangementSystem\obj\Debug\TWQ_MangementSystem.PL.control_report.resources
+E:\courses\c#\m7mod salem\New folder\TWQ_MangementSystem\obj\Debug\TWQ_MangementSystem.PL.form_log.resources
+E:\courses\c#\m7mod salem\New folder\TWQ_MangementSystem\obj\Debug\TWQ_MangementSystem.PL.form_main.resources
+E:\courses\c#\m7mod salem\New folder\TWQ_MangementSystem\obj\Debug\TWQ_MangementSystem.PL.control_cover.resources
+E:\courses\c#\m7mod salem\New folder\TWQ_MangementSystem\obj\Debug\TWQ_MangementSystem.PL.control_foods.resources
+E:\courses\c#\m7mod salem\New folder\TWQ_MangementSystem\obj\Debug\TWQ_MangementSystem.PL.control_note.resources
+E:\courses\c#\m7mod salem\New folder\TWQ_MangementSystem\obj\Debug\TWQ_MangementSystem.PL.control_addbuybill.resources
+E:\courses\c#\m7mod salem\New folder\TWQ_MangementSystem\obj\Debug\TWQ_MangementSystem.PL.control_masrof.resources
+E:\courses\c#\m7mod salem\New folder\TWQ_MangementSystem\obj\Debug\TWQ_MangementSystem.PL.control_showbuybill.resources
+E:\courses\c#\m7mod salem\New folder\TWQ_MangementSystem\obj\Debug\TWQ_MangementSystem.PL.control_showsalebill.resources
+E:\courses\c#\m7mod salem\New folder\TWQ_MangementSystem\obj\Debug\TWQ_MangementSystem.PL.control_user.resources
+E:\courses\c#\m7mod salem\New folder\TWQ_MangementSystem\obj\Debug\TWQ_MangementSystem.PL.control_order.resources
+F:\projects\TWQ_MangementSystem\bin\Debug\TWQ_MangementSystem.exe.config
+F:\projects\TWQ_MangementSystem\obj\Debug\TWQ_MangementSystem.exe
+F:\projects\TWQ_MangementSystem\obj\Debug\TWQ_MangementSystem.pdb
+F:\projects\TWQ_MangementSystem\bin\Debug\TWQ_MangementSystem.exe
+F:\projects\TWQ_MangementSystem\bin\Debug\TWQ_MangementSystem.pdb
+F:\projects\TWQ_MangementSystem\obj\Debug\TWQ_MangementSystem.csprojResolveAssemblyReference.cache
+F:\projects\TWQ_MangementSystem\obj\Debug\TWQ_MangementSystem.PL.control_showsalebill.resources
+F:\projects\TWQ_MangementSystem\obj\Debug\TWQ_MangementSystem.PL.control_addbuybill.resources
+F:\projects\TWQ_MangementSystem\obj\Debug\TWQ_MangementSystem.PL.control_cover.resources
+F:\projects\TWQ_MangementSystem\obj\Debug\TWQ_MangementSystem.PL.control_foods.resources
+F:\projects\TWQ_MangementSystem\obj\Debug\TWQ_MangementSystem.PL.control_report.resources
+F:\projects\TWQ_MangementSystem\obj\Debug\TWQ_MangementSystem.PL.control_user.resources
+F:\projects\TWQ_MangementSystem\obj\Debug\TWQ_MangementSystem.PL.form_log.resources
+F:\projects\TWQ_MangementSystem\obj\Debug\TWQ_MangementSystem.PL.form_main.resources
+F:\projects\TWQ_MangementSystem\obj\Debug\TWQ_MangementSystem.PL.control_masrof.resources
+F:\projects\TWQ_MangementSystem\obj\Debug\TWQ_MangementSystem.PL.control_note.resources
+F:\projects\TWQ_MangementSystem\obj\Debug\TWQ_MangementSystem.PL.control_order.resources
+F:\projects\TWQ_MangementSystem\obj\Debug\TWQ_MangementSystem.PL.control_showbuybill.resources
+F:\projects\TWQ_MangementSystem\obj\Debug\TWQ_MangementSystem.Properties.Resources.resources
+F:\projects\TWQ_MangementSystem\obj\Debug\TWQ_MangementSystem.csproj.GenerateResource.Cache

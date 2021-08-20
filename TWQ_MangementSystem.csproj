@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{62CCDE70-207A-4190-A75A-D0A3252C58C7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TWQ_MangementSystem</RootNamespace>
+    <AssemblyName>TWQ_MangementSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="PL\control_showsalebill.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PL\control_showsalebill.Designer.cs">
+      <DependentUpon>control_showsalebill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\control_addbuybill.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PL\control_addbuybill.Designer.cs">
+      <DependentUpon>control_addbuybill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\control_cover.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PL\control_cover.Designer.cs">
+      <DependentUpon>control_cover.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\control_foods.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PL\control_foods.Designer.cs">
+      <DependentUpon>control_foods.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\control_report.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PL\control_report.Designer.cs">
+      <DependentUpon>control_report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\control_user.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PL\control_user.Designer.cs">
+      <DependentUpon>control_user.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\form_log.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\form_log.Designer.cs">
+      <DependentUpon>form_log.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\form_main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\form_main.Designer.cs">
+      <DependentUpon>form_main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\control_masrof.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PL\control_masrof.Designer.cs">
+      <DependentUpon>control_masrof.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\control_note.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PL\control_note.Designer.cs">
+      <DependentUpon>control_note.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\control_order.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PL\control_order.Designer.cs">
+      <DependentUpon>control_order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\control_showbuybill.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PL\control_showbuybill.Designer.cs">
+      <DependentUpon>control_showbuybill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="PL\control_showsalebill.resx">
+      <DependentUpon>control_showsalebill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\control_addbuybill.resx">
+      <DependentUpon>control_addbuybill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\control_cover.resx">
+      <DependentUpon>control_cover.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\control_foods.resx">
+      <DependentUpon>control_foods.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\control_report.resx">
+      <DependentUpon>control_report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\control_user.resx">
+      <DependentUpon>control_user.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\form_log.resx">
+      <DependentUpon>form_log.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\form_main.resx">
+      <DependentUpon>form_main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\control_masrof.resx">
+      <DependentUpon>control_masrof.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\control_note.resx">
+      <DependentUpon>control_note.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\control_order.resx">
+      <DependentUpon>control_order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\control_showbuybill.resx">
+      <DependentUpon>control_showbuybill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
